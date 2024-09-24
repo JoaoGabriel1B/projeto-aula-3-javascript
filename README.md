@@ -1,2 +1,2 @@
 # projeto-aula-3-javascript
-projeto sendo trabalhado por CC BY 4.0
+este trabalho está sendo licenciado sob CC BY 4.0
